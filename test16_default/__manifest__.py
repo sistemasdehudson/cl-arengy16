@@ -27,7 +27,6 @@
     'website': 'http://github.com/jobiols/cl-test',
     'license': 'AGPL-3',
     'depends': [
-        'standard_depends_ce'
         ],
     'installable': True,
 
@@ -44,7 +43,7 @@
 
     'git-repos': [
         'git@github.com:jobiols/cl-test.git',
-        'git@github.com:jobiols/odoo-jeo-ce.git',
+        #'git@github.com:jobiols/odoo-jeo-ce.git',
     ],
 
     # list of images to use in the form 'name image-url'
