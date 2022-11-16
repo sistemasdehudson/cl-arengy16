@@ -42,7 +42,7 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:jobiols/cl-test.git',
+        'https://github.com/jobiols/cl-test.git',
         #'git@github.com:jobiols/odoo-jeo-ce.git',
     ],
 
