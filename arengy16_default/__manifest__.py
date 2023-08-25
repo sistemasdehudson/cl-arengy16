@@ -19,12 +19,12 @@
 ##############################################################################
 
 {
-    "name": "test16",
+    "name": "arengy16",
     "version": "16.0.1.0.0",
     "category": "Tools",
     "summary": "Test for v16 CE",
     "author": "jeo Software",
-    "website": "http://github.com/jobiols/cl-test",
+    "website": "http://github.com/jobiols/cl-arengy16",
     "license": "AGPL-3",
     "depends": [],
     "installable": True,
@@ -39,7 +39,7 @@
     ],
     "port": "8069",
     "git-repos": [
-        "https://github.com/jobiols/cl-test.git",
+        "https://github.com/jobiols/cl-arengy16.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
     ],
     # list of images to use in the form 'name image-url'
