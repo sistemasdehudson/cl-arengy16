@@ -41,7 +41,7 @@
     "git-repos": [
         "https://github.com/jobiols/cl-arengy16.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
-        'https://github.com/regaby/odoo-custom.git -b 16.0-adhoc',
+        'https://github.com/regaby/odoo-custom.git -b 16.0',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git -b 16.0',
         'https://github.com/ingadhoc/odoo-argentina-ce.git -b 16.0',
