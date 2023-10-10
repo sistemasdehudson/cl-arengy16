@@ -24,7 +24,7 @@
     "category": "Tools",
     "summary": "Test for v16 CE",
     "author": "jeo Software",
-    "website": "http://github.com/jobiols/cl-arengy16",
+    "website": "http://github.com/sistemasdehudson/cl-arengy16",
     "license": "AGPL-3",
     "depends": [],
     "installable": True,
@@ -39,7 +39,7 @@
     ],
     "port": "8069",
     "git-repos": [
-        "https://github.com/jobiols/cl-arengy16.git",
+        "https://github.com/sistemasdehudson/cl-arengy16.git",
         #'git@github.com:jobiols/odoo-jeo-ce.git',
         'https://github.com/regaby/odoo-custom.git -b 16.0',
         ## localización
