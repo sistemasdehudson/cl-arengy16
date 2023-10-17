@@ -75,7 +75,7 @@
         'https://github.com/OCA/project-reporting -b 16.0',
         'https://github.com/OCA/purchase-workflow -b 16.0',
         'https://github.com/Yenthe666/auto_backup.git yenthe666/auto_backup -b 16.0',
-        'https://gitlab.com/guidoomuchiutti/ing_arengy-web.git guidoomuchiutti/ing_arengy_web -b 16.0',
+        'https://gitlab.com/guidoomuchiutti/ing_arengy-web.git guidoomuchiutti/web_arengy -b 16.0',
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
